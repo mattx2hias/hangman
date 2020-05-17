@@ -1,0 +1,21 @@
+body {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+#canvas {
+    background: white;
+    border-radius: 5px;
+}
+
+#guess-field {
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    margin-top: 10px;
+}
