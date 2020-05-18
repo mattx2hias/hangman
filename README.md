@@ -1,2 +1,1 @@
-#Hangman
 ![](HangmanDemo.gif)
